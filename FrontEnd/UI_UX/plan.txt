@@ -1,0 +1,11 @@
+-required:
+    a. header, file input, submit button
+
+
+
+Color theme:
+    button theme:
+    file input theme:
+    header: size, color, font
+    general theme: background 
+    

@@ -1,0 +1,5 @@
+Modal:
+-takes the images processed
+-gets average colors from each image
+-checks where the average color lies in the color pallete
+-output a recomend outfit color

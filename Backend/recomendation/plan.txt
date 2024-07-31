@@ -1,0 +1,2 @@
+-get the outfit color recomend
+-outut: pass the recomended outfit color to the frontend

@@ -1,0 +1,3 @@
+-takes images from the frontend
+-extracts the skin tone from each image
+-output: skin images extracted
