@@ -1,11 +1,11 @@
 -required:
-    a. header, file input, submit button
+    home page: header, file input, submit button
+    results page: grid of color boxes and a headline, home icon button
 
 
 
 Color theme:
     button theme:
     file input theme:
-    header: size, color, font
-    general theme: background 
-    
+    header: size, color, font : google fonts:Open Sans(for the submit button text) , Noto Sans Nag Mundari(for the headline)
+    general theme: background : background white, 

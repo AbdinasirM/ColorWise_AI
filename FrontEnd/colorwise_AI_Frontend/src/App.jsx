@@ -1,13 +1,19 @@
-import { useState } from 'react'
+import React, { useState, useEffect } from 'react';
+
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [content, setContent] = useState('');
+
+
 
   return (
     <>
-    <h1>Color wise Ai project</h1>
+    //content goes here
+    
+    
     </>
-  )
+    
+  );
 }
 
-export default App
+export default App;

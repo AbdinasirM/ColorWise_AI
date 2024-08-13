@@ -3,3 +3,17 @@ Modal:
 -gets average colors from each image
 -checks where the average color lies in the color pallete
 -output a recomend outfit color
+
+
+
+dataset
+
+
+alot of images
+skintone one {
+    recomend:{
+        a bunch 
+    }
+
+
+}
